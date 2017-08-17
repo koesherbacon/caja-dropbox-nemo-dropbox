@@ -50,7 +50,3 @@ You shouldn't encounter any problems, but if you do, please let me know and I'll
 
 <br>
 <br>
-PS -- automated bash script in progress...
-
-<br>
-<br>
